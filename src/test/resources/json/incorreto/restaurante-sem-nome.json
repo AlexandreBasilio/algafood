@@ -1,0 +1,7 @@
+{
+  "taxaFrete": 10,
+  "aberto": true,
+  "cozinha": {
+    "id": 100
+  }
+}

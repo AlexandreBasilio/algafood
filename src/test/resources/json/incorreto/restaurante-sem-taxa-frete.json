@@ -1,0 +1,7 @@
+{
+  "nome": "Restaurante 11",
+  "aberto": true,
+  "cozinha": {
+    "id": 2
+  }
+}

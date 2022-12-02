@@ -1,0 +1,8 @@
+{
+  "nome": "Novo Restaurante",
+  "taxaFrete": 10,
+  "aberto": true,
+  "cozinha": {
+    "id": 20
+  }
+}
