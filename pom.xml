@@ -11,7 +11,7 @@
     <groupId>com.algaworks</groupId>
     <artifactId>algafood</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>algafood</name>
+    <name>algafoodgit </name>
     <description>API Delivery algafood</description>
     <properties>
         <java.version>11</java.version>
